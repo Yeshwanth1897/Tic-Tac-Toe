@@ -1,6 +1,3 @@
-// UC7: Computer Makes a Random Move (Easy Level)
-// Goal: Allow the computer to make a random valid move.
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
